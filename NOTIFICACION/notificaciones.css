@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #e7f1fa;
+}
+
+section{
+    margin-top: 20%;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding-top: 1em;
+    padding-right: 2em;
+    padding-left: 1em;
+    padding-bottom: 2em;
+    background-color: white;
+}
+
+}
+.contenedor {
+   
+}
+.icono {
+  background-color: blueviolet;
+  font-size: medium;
+  margin-bottom: 1em;
+  width: 10%;
+}
+
+h3{
+    font-weight: bold;
+    color: black;
+    
+}
+.p1{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.link{
+    text-decoration: none;
+}
+
+span{
+    margin-top: 1em;
+}
+button{
+    width: 45%;
+    height: 20%;
+    margin-top: 1em;
+    border-radius: 0.4em;
+    border-bottom: 1rem;
+    background-color: #1818ce;
+    f
+}
+
+.signup {
+    padding: 0.5em
+}
+
+
+
+}
+
