@@ -18,10 +18,6 @@ section{
     background-color: white;
 }
 
-}
-.contenedor {
-   
-}
 .icono {
   background-color: blueviolet;
   font-size: medium;
@@ -53,7 +49,7 @@ button{
     border-radius: 0.4em;
     border-bottom: 1rem;
     background-color: #1818ce;
-    f
+    
 }
 
 .signup {
@@ -62,5 +58,5 @@ button{
 
 
 
-}
+
 
